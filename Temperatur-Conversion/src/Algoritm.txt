@@ -1,0 +1,10 @@
+1. Tentukan suhu{value}
+2. isi method dengan rumus suhu masing-masing
+3. di method 'main', berikan value/isi suhu.
+
+=============================================
+1. Scanner input();
+2. buat masing-masing method untuk menulis rumus masing-masing suhu yang ingin dikonversikan.
+3. cetak ke dalam method main{}
+
+=============================================

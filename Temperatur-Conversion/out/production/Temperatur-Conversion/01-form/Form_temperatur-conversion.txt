@@ -1,0 +1,15 @@
+============================================================================================================================
+    Rumus dari skala Celcius ke skala Fahrenheit => T (derajat C) = 9/5 T derajat Celsius + 32
+    Rumus dari skala Celcius ke skala Reamur => T (derajat R) = 4/5 T derajat R
+    Rumus dari skala Celcius ke Kelvin => T (K) = T derajat C + 273
+    Rumus dari skala Fahrenheit ke skala Celcius => T (derajat C) = 5/9 T derajat F – 32
+    Rumus dari skala Fahrenheit ke skala Reamur  => T (derajat R) = 4/9 T derajat F – 32
+    Rumus dari skala Fahrenheit ke Kelvin => T (K) = 5/9 ( T derajat F – 32) + 273
+    Rumus dari skala Reamur ke Celcius => T (derajat C) = 5/4 T derajat R
+    Rumus dari skala Reamur ke Fahrenheit => T (derajat F) = 9/4 T derajat F + 32
+    Rumus dari skala Reamur ke Kelvin => T (K) = 5/4 T derajat R + 273
+    Rumus dari skala Kelvin ke skala Celcius => T (derajat C) = TK – 273
+    Rumus dari skala Kelvin ke skala Fahrenheit => T (derajat F) = 9/5 (TK-273) + 32
+    Rumus dari skala Kelvin ke skala Reamur => T (derajat R) = 4/5 TK – 273
+============================================================================================================================
+
